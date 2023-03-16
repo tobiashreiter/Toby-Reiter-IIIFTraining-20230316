@@ -1,0 +1,228 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://tobiashreiter.github.io/Toby-Reiter-IIIFTraining-20230316/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Box 1, Folder 1: A-Al, 1920-1922",
+  "metadata" : [ {
+    "value" : "This site provides access to the records of Jacques Seligmann & Co. in the Archives of American Art, which were were digitized in 2010. The bulk of the collection has been scanned, and totals 330,754 images.",
+    "label" : "Digitization Note"
+  }, {
+    "value" : "Box 1, Folder 1: A-Al, 1920-1922",
+    "label" : "Folder Title"
+  }, {
+    "value" : "Jacques Seligmann & Co. records, 1904-1978, bulk 1913-1974",
+    "label" : "Collection Title"
+  }, {
+    "value" : "Series 1: Correspondence",
+    "label" : "Series"
+  }, {
+    "value" : "Archives of American Art, Smithsonian Institution Washington, D.C. 20560",
+    "label" : "Location"
+  }, {
+    "value" : "<a href='https://www.aaa.si.edu/collections/search?edan_fq[]=p.edanmdm.freetext.setname.content%3A%22Jacques Seligmann &amp; Co. records, 1904-1978, bulk 1913-1974%22&amp;sort=p.edanmdm.descriptivenonrepeating.title_sort%20asc' target='_blank'>View the selected digitized documents from this collection</a>",
+    "label" : "Selected Digitized Documents"
+  }, {
+    "value" : "Collection: https://www.aaa.si.edu/collections/jacques-seligmann--co-records-9936",
+    "label" : "Permalinks"
+  }, {
+    "value" : "The Archives of American Art encourages the use of its archival collections for non-commercial, educational, and personal use under the fair use provision of U.S. copyright law. Use or copyright restrictions may exist, and AAA makes no guarantees concerning copyright restrictions. It is the researcher’s responsibility to ascertain whether any such rights exist, and to obtain any permission necessary to reproduce and publish the material.",
+    "label" : "Rights Statement"
+  }, {
+    "value" : "<a href='http://si.edu/termsofuse' target='_blank'>Smithsonian Terms of Use</a>",
+    "label" : "Terms of Use"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://www.aaa.si.edu/collections/jacques-seligmann--co-records-9936/subseries-1-1/box-1-folder-1/sequence/1",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00001",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00001",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00001",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00001",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "1",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00002",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00002",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00002",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00002",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "2",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00003",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00003",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00003",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00003",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "3",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00004",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00004",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00004",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00004",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "4",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00005",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00005",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00005",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00005",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "5",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00006",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00006",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00006",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00006/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00006",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "6",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00007",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00007",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00007",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00007/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00007",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "7",
+      "width" : 2300
+    }, {
+      "@id" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00008",
+      "@type" : "sc:Canvas",
+      "height" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00008",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://ids.si.edu/ids/iiif/canvas-AAA-jacqself00008",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00008/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00008",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ],
+      "label" : "8",
+      "width" : 2300
+    } ],
+    "label" : "Folder Contents"
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "https://ids.si.edu/ids/iiif/AAA-jacqself00001"
+  }
+}
