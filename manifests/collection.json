@@ -1,0 +1,15 @@
+{
+  "id" : "https://tobiashreiter.github.io/Toby-Reiter-IIIFTraining-20230316/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tobiashreiter/Toby-Reiter-IIIFTraining-20230316 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://tobiashreiter.github.io/Toby-Reiter-IIIFTraining-20230316/manifests/manifest-prez3.json",
+    "label" : {
+      "@en" : [ "Box 1, Folder 1: A-Al, 1920-1922" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
